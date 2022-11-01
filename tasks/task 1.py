@@ -1,3 +1,4 @@
+# matrix transposition
 size = int(input())   # размер массива
 array = []
 
