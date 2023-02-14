@@ -13,3 +13,12 @@ if (x % 2 == 0 and y % 2 == 0) or (x % 2 == 1 and y % 2 == 1):
     print('BLACK')
 else:
     print('WHITE')
+    
+    
+    
+a=int(input())
+b=int(input())
+if abs(a-b)%2==1:
+    print('WHITE')
+else:
+    print('BLACK')
