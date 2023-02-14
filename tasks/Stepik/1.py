@@ -1,3 +1,9 @@
+#Считайте цифру, выведите её название на английском (zero, one, ..., nine).
+#Sample Input:
+#8
+#Sample Output:
+#eight
+
 the_dict = {
     0: 'zero',
     1: 'one',
