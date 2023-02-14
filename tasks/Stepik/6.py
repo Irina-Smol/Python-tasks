@@ -22,3 +22,13 @@ if abs(a-b)%2==1:
     print('WHITE')
 else:
     print('BLACK')
+    
+    
+    
+a = int(input())
+b = int(input())
+if (a + b) % 2 == 0:
+  print('BLACK')
+else:
+  print('WHITE')
+    
